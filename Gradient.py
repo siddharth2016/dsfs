@@ -208,7 +208,7 @@ assert 19.9 < slope < 20.1,   "slope should be about 20"
 assert 4.9 < intercept < 5.1, "intercept should be about 5"
 
 
-# In[ ]:
+# In[20]:
 
 
 
